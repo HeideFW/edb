@@ -1,2 +1,2 @@
 # edb
-eLearnund Datenbank Portal
+eLearning Datenbank Portal
